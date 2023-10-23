@@ -1,5 +1,3 @@
-import javax.xml.stream.FactoryConfigurationError;
-
 public class Person {
     private String name;
 
